@@ -9,7 +9,7 @@ import static org.junit.Assert.assertTrue;
 /**
  * Test class
  */
-public class Test
+public class SimpleTest
 {
 
    /**
